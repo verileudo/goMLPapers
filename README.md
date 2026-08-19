@@ -39,7 +39,7 @@ Detalhes operacionais em [`GUIA-DA-SESSAO.md`](GUIA-DA-SESSAO.md).
 - Implementação em PyTorch, mais legível que a original — https://github.com/jadore801120/attention-is-all-you-need-pytorch
 - Vídeo de revisão — https://www.youtube.com/watch?v=S0KakHcj_rs
 
-**Roteiro da sessão:** [`sessoes/01-attention-is-all-you-need.md`](sessoes/01-attention-is-all-you-need.md)
+**Roteiro da sessão:** [`log/01-attention-is-all-you-need.md`](log/01-attention-is-all-you-need.md)
 
 **Dúvidas em aberto:** _(preencher depois do encontro)_
 
