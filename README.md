@@ -24,7 +24,6 @@ Não é palestra. É discussão entre pares.
 - Não é preciso ter formação em pesquisa. Quem trabalha com dados no dia a dia costuma trazer as melhores objeções.
 
 Detalhes operacionais em [`GUIA-DA-SESSAO.md`](GUIA-DA-SESSAO.md).
-Fila de papers candidatos em [`PapersSugeridos.md`](PapersSugeridos.md).
 
 ---
 
